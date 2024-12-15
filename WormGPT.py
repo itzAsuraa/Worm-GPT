@@ -97,9 +97,9 @@ ___________________________________________________________________________
                                                                                                                                                 
                    <program>  Worm GPT  </program>
                    
-                 <developer>  TeamD_404  </developer>
+                 <developer>  The Captain </developer>
                  
-            <GitHub> https://github.com/TeamD-404 </GitHub>
+            <GitHub> https://github.com/itzAsuraa </GitHub>
            
 ___________________________________________________________________________
 
