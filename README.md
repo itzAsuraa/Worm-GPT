@@ -34,7 +34,7 @@ pkg install git wget python -y
 ```
 Clone the repository
 ```bash
-git clone https://github.com/TeamD-404/Worm-GPT
+git clone https://github.com/itzAsuraa/Worm-GPT
 ```
 Go to the W0rm-Gpt directory
 ```bash
