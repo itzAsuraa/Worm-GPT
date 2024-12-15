@@ -17,7 +17,7 @@ def fetch_latest_file(url, filename):
         sys.exit(1)
 
 def update_main():
-    main_url = "https://raw.githubusercontent.com/TeamD-404/Worm-GPT/main/WormGPT.py"
+    main_url = "https://raw.githubusercontent.com/itzAsuraa/Worm-GPT/main/WormGPT.py"
     fetch_latest_file(main_url, "WormGPT_updated.py")
     os.replace("WormGPT_updated.py", "WormGPT.py")
 
